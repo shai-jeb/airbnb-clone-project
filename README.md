@@ -41,3 +41,14 @@ Headings: Circular, Bold (700), 24px-32px
 Secondary Text: Circular, Book (400), 14px
 
 Identifying design properties in a mockup transforms a static design into a precise, usable, and user-friendly product that developers can confidently build and users can enjoy.
+
+# Project Roles and Responsibilities.
+
+Project Manager: Oversees timeline, coordinates team, manages deliverables
+Frontend Developers: Implements UI components, ensures responsive design
+Backend Developers: Builds APIs, manages database, implements business logic
+Designers: Creates mockups, maintains design system, ensures UX quality
+QA/Testers: Writes test cases, performs testing, reports bugs
+DevOps Engineers: Manages deployment, CI/CD pipeline, server infrastructure
+Product Owner: Defines requirements, prioritizes features, represents stakeholders
+Scrum Master: Facilitates agile processes, removes blockers, organizes meetings
